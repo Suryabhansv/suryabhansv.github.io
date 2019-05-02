@@ -17,7 +17,7 @@ baseurl: ""
 title: Suryabhan Singh Vaghela | information
 
 # Short description of your site
-description: B.Tech Computer Science Engineering Specialization in Cloud Based Application (Collaboration with IBM) From Ganpat University application applications assistance award awards bachelor backend bahadur based blockchain buffalo building certifications cgpa challenging cherishes cloud computer context critical currently data developer development education embedded engineering engnieering experience explorer foundation ganpat geek gmail guru hand higher individual Information institute interests introduction july june keen languages learning likes linux london maratho mastery needs percent programming projects python ratlam school science secondary security semester shri singh skills specialization state strategy student students super superior suryabhan suryabhansv systems tasks technologies technology tegh thinking tools topkhanna university vaghela year york
+description: B.Tech Computer Science Engineering Specialization in Cloud Based Application (Collaboration with IBM) From Ganpat University suryabhan,Suryabhan,singh,Singh,Vaghela,vaghela,ratlam,Ratlam.suryabhansv,Suryabhansv,Suryabhansv@gmail.com,suryabhansv@gmail.com,madhya pradesh,Madhya Pradesh,Cloud,cloud,computing,Computing,blockchain,Blockchain,ibm,Ibm,IBM,Btech,btech,computer,Computer,cse,CSE
 
 # --- Navigation bar options --- #
 
@@ -93,10 +93,10 @@ url-pretty: "https://suryabhansv.github.io"  # eg. "deanattali.com/beautiful-jek
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-139255329-1"
 
-# Google Tag Manager ID
-#gtm: ""
+Google Tag Manager ID
+gtm: "GTM-5V4CP5L"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
