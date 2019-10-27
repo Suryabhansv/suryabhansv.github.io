@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/suryabhansv
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://suryabhansv.github.io
+  * I am suryabhansv (https://keybase.io/suryabhansv) on keybase.
+  * I have a public key ASAvojqkkHDx6YLW8bA5EoAreTJlha9Tbm8aPQF-5qcU-go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202fa23aa49070f1e982d6f1b03912802b79326585af536e6f1a3d017ee6a714fa0a",
+      "host": "keybase.io",
+      "kid": "01202fa23aa49070f1e982d6f1b03912802b79326585af536e6f1a3d017ee6a714fa0a",
+      "uid": "8b580715ac43863e4b59fdb3147c4719",
+      "username": "suryabhansv"
+    },
+    "merkle_root": {
+      "ctime": 1572200058,
+      "hash": "f831120d59b8c829325c5bd0f798164f78b069c90c318f326a7c8e4d5c2fa980f04eaa7767cd6e15a5c0eef225ddfdf7e01a624681e5e956376b10c9eb479d76",
+      "hash_meta": "23014c03344d5efb93e83c96a8b5bba2e5811a706bf424ae8d2c289b7b912089",
+      "seqno": 8444182
+    },
+    "service": {
+      "entropy": "d2rDLumcl5N/5FfZFzP+kyWh",
+      "hostname": "suryabhansv.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.0"
+  },
+  "ctime": 1572200071,
+  "expire_in": 504576000,
+  "prev": "dbb233404b3685620318c7fbbfadd84804df8d4ec3f8364ee7df71f8df2004fc",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgL6I6pJBw8emC1vGwORKAK3kyZYWvU25vGj0BfuanFPoKp3BheWxvYWTESpcCCcQg27IzQEs2hWIDGMf7v63YSATfjU7D+DZO599x+N8gBPzEIF2PRbDitj/hJx+7mxJxQ/I6sGNx9Y2HcoXJWBadyDxkAgHCo3NpZ8RAS+2CrM/qgpNg4SXKPcBpaXHfsnVO2os6WomPbWnckiNpfyh7LOD8/t2FCWMifFyYHiUGK3TDPyTomQFvtJcLC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKVHIvjUg0ohFUT/NOIni2btDqaHjxzk/PP2ab7SaVYno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/suryabhansv
+
+==================================================================
