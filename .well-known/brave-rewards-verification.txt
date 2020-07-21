@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: suryabhansv.github.io
+Token: c2c35c1116141dde1af4939ea9a7acfeb30106cdad5ff2c8b6c361eec726d5a1
